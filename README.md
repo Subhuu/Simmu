@@ -1,3 +1,3 @@
-Go to release 
-Upload file
-Copy download link
+1 Go to release 
+2 Upload file
+3 Copy download link
